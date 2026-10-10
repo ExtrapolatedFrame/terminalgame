@@ -32,7 +32,7 @@ from rewards import rewards1
 
 #init variables
 username = config['UserData']['username']
-debug = True
+debug = False
 current = "mainMenu"
 host = None
 
