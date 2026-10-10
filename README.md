@@ -22,8 +22,11 @@ Patch their holes by solving puzzles and fixing whatever damage they caused.
 Use your software to protect your own holes from being patched or aid you in patching the holes your opponent made.
 
 **Winning**
+
 You can win in two ways:
+
 Time, whoever has the highest score before time runs out wins. Score counts holes made, holes patched, holes left standing, and unused software.
+
 First to patch all holes, patching all the holes your opponent made before they patched yours. Score is still counted, but has no effect on who won.
 
 ## How to play
