@@ -29,9 +29,12 @@ First to patch all holes, patching all the holes your opponent made before they 
 ## How to play
 Run launch.py, you should see the terminal open.
 If you are a new user, it will prompt you to make a new username, use `setUsername` then whatever username you want, example: `setUsername ExtrapolatedFrame`
+
 **Hosting:**
+
 Use `host`, and it will start waiting for a connection.
 Once a player joins, use `startgame` to start the game.
 
 **Joining**
+
 Use `join [ip]`, ip being the ip of the host's computer.
