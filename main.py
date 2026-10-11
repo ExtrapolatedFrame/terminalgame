@@ -1,6 +1,6 @@
 # TERMINAL GAME
 
-version = "\033[94mv0.4\033[0m"
+version = "\033[94mv0.5\033[0m"
 
 # init
 import configparser
